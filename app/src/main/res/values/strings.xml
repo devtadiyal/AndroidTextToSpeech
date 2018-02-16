@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Speech To Text</string>
+    <string name="action_settings">Settings</string>
+    <string name="speech_prompt">Say something&#8230;</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+    <string name="tap_on_mic">Tap on mic to speak</string>
+
+    <string name="read_time">60:00</string>
+    <string name="text_data">Your skills of writing Paragraph will make you a perfect man. If you look at any printed book, you will see that each chapter is divided up into sections, the first line of each being indented slightly to the right. These sections are called Paragraph. Chapters, essays and other compositions are broken up into paragraphs, to make the reading of them easier.</string>
+    <string name="share">Share</string>
+    <string name="cancel">Cancel</string>
+</resources>

@@ -1,0 +1,4 @@
+#Fri Feb 16 18:04:37 IST 2018
+base.0=C\:\\Users\\saffron\\AppData\\Roaming\\Skype\\My Skype Received Files\\AndroidTextToSpeech\\AndroidTextToSpeech\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+path.0=classes.dex
+renamed.0=classes.dex

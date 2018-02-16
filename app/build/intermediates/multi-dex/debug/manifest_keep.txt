@@ -1,0 +1,3 @@
+# Referenced at C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:16
+-keep class com.saffron.texttospeech.MyApplication { <init>(...); }
+

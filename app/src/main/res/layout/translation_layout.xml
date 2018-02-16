@@ -1,0 +1,60 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.saffron.texttospeech.TranslationActivity"
+    android:orientation="vertical"
+    android:background="@color/white">
+
+
+    <EditText
+        android:id="@+id/et_from"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:ems="10"
+        android:layout_margin="10dp"
+        android:inputType="textPersonName"
+        android:hint="Enter text"
+        android:gravity="center"
+        android:textColorHint="@android:color/darker_gray"
+        android:textColor="@android:color/black"/>
+
+    <Spinner
+        android:id="@+id/spinner"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:padding="5dp"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:background="@color/green"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/green"
+        android:layout_margin="10dp"/>
+
+    <EditText
+        android:id="@+id/et_translation"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:ems="10"
+        android:enabled="false"
+        android:hint="Translation"
+        android:gravity="center"
+        android:textColorHint="@android:color/darker_gray"
+        android:textColor="@android:color/black"/>
+
+
+    <Button
+        android:id="@+id/translate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="Translate"
+        android:visibility="gone"/>
+
+</LinearLayout>

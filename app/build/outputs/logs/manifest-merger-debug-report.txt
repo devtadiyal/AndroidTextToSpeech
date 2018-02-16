@@ -1,0 +1,149 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml:2:1-63:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\saffron\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\65b07c30f5ad47eaa4e9f0d3e866d578\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\saffron\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\873296fba32adf65ba61bb48560ab791\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\saffron\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\abb6248d15bbcac97b53523041c5c575\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\saffron\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\e40030b848ffdbeb325723344cce3ee1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\saffron\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\9b38cc85e4f9d1a1827371ee242853ac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\saffron\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\613ae5b6922fb4d56dc0dece4ce5a76b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\saffron\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\2b0ea040e2b1dc02c163668147695150\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\saffron\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\9dcabff4496cfd0b8bb065d87115436d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\saffron\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\c2502c364bfc173be09b60d0c055d6e7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\saffron\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\279d5b2fe5001b16a93e5e22a2f638f9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\saffron\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\8636a284ba436c38f013a36a68d2311e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\saffron\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\3ad3eb5815eb2cceaef7a3dc504efd1a\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml:2:1-63:12
+	package
+		ADDED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml:9:5-70
+	android:name
+		ADDED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml:9:22-68
+uses-permission#android.permission.STORAGE
+ADDED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml:10:22-63
+application
+ADDED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml:12:5-61:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\saffron\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\e40030b848ffdbeb325723344cce3ee1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\saffron\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\e40030b848ffdbeb325723344cce3ee1\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml:15:9-41
+	android:icon
+		ADDED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml:13:9-45
+	android:name
+		ADDED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml:14:9-38
+activity#com.saffron.texttospeech.MainActivity
+ADDED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml:16:9-24:20
+	android:screenOrientation
+		ADDED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml:19:13-49
+	android:label
+		ADDED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml:17:13-65
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml:20:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.saffron.texttospeech.VoiceRecognitionTest
+ADDED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml:41:9-44:51
+	android:screenOrientation
+		ADDED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml:44:13-49
+	android:label
+		ADDED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml:43:13-45
+	android:name
+		ADDED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml:42:13-73
+activity#com.saffron.texttospeech.TranslationActivity
+ADDED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml:46:9-49:51
+	android:screenOrientation
+		ADDED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml:49:13-49
+	android:label
+		ADDED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml:48:13-45
+	android:name
+		ADDED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml:47:13-72
+activity#com.saffron.texttospeech.RecordingActivity
+ADDED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml:51:9-54:51
+	android:screenOrientation
+		ADDED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml:54:13-49
+	android:label
+		ADDED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml:53:13-45
+	android:name
+		ADDED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml:52:13-70
+activity#com.saffron.texttospeech.RecordingListActivity
+ADDED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml:56:9-59:51
+	android:screenOrientation
+		ADDED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml:59:13-49
+	android:label
+		ADDED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml:58:13-45
+	android:name
+		ADDED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml:57:13-74
+uses-sdk
+INJECTED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\saffron\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\65b07c30f5ad47eaa4e9f0d3e866d578\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\saffron\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\65b07c30f5ad47eaa4e9f0d3e866d578\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\saffron\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\873296fba32adf65ba61bb48560ab791\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\saffron\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\873296fba32adf65ba61bb48560ab791\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\saffron\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\abb6248d15bbcac97b53523041c5c575\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\saffron\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\abb6248d15bbcac97b53523041c5c575\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\saffron\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\e40030b848ffdbeb325723344cce3ee1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\saffron\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\e40030b848ffdbeb325723344cce3ee1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\saffron\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\9b38cc85e4f9d1a1827371ee242853ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\saffron\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\9b38cc85e4f9d1a1827371ee242853ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\saffron\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\613ae5b6922fb4d56dc0dece4ce5a76b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\saffron\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\613ae5b6922fb4d56dc0dece4ce5a76b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\saffron\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\2b0ea040e2b1dc02c163668147695150\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\saffron\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\2b0ea040e2b1dc02c163668147695150\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\saffron\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\9dcabff4496cfd0b8bb065d87115436d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\saffron\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\9dcabff4496cfd0b8bb065d87115436d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\saffron\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\c2502c364bfc173be09b60d0c055d6e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\saffron\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\c2502c364bfc173be09b60d0c055d6e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\saffron\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\279d5b2fe5001b16a93e5e22a2f638f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\saffron\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\279d5b2fe5001b16a93e5e22a2f638f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\saffron\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\8636a284ba436c38f013a36a68d2311e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\saffron\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\8636a284ba436c38f013a36a68d2311e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\saffron\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\3ad3eb5815eb2cceaef7a3dc504efd1a\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\saffron\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\3ad3eb5815eb2cceaef7a3dc504efd1a\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\saffron\AppData\Roaming\Skype\My Skype Received Files\AndroidTextToSpeech\AndroidTextToSpeech\app\src\main\AndroidManifest.xml
